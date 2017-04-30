@@ -12,3 +12,8 @@ Here is a set of tentative topics to be covered in the summer workshop on *Colla
 3. Git usage in CQuIC -- make it feasible and easy.
     1. With people who knows or would like to learn git.
     2. With people who don't know and don't want to learn git. Real example: writing papers with professors and other students in CQuIC. Some automation scripts can be found on Xiaodong Qi's github [script repo](https://github.com/i2000s/scripts). Optional: submodule might be used.
+
+4. Advanced topics: make scientific work easier with cloud computing.
+    1. Automatic tests (unit tests and systematic tests).
+    2. Automatic compiling, data retrieving and updating. Example: Jekyll website building.
+    3. Virtual machines and images. Example: Docker for reproducible research and open science (one of Anupam's concentrations).
